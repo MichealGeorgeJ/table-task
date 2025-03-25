@@ -98,7 +98,7 @@ export default function App() {
           </tbody>
         </table>
       </div>
-      {/* Pagination */}
+
       <nav className="flex justify-center mt-4">
         <ul className="inline-flex -space-x-px text-sm">
           <li>
